@@ -8,9 +8,9 @@ I am a young, passionate software developer with a background in implementing sc
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [ivanquayson28@gmail.com](mailto:ivanquayson28@gmail.com)
-* 🧠  I'm learning Python and Django
+* 🧠  I'm learning Python, Django and JavaScript
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm also Batman. Tell literally EVERYONE
+* ⚡  Also I'm Batman
 
 <a href="https://www.x.com/@JaceFCB" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@JaceFCB?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
